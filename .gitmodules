@@ -1,0 +1,3 @@
+[submodule "isect_segments_bentley_ottmann"]
+	path = isect_segments_bentley_ottmann
+	url = git@github.com:Ph4nt0mm/isect_segments-bentley_ottmann.git
